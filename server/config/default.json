@@ -1,0 +1,11 @@
+{
+    "port": 9999,
+    "host": "localhost",
+    "serverport": 3306,
+    "database": "labdb",
+    "user": "root",
+    "password": "Jitendra@24",
+    "baseurl": ""
+
+
+}
